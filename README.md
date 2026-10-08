@@ -1,5 +1,7 @@
 # Student Expense Tracker
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 A simple web-based expense tracker designed for students.
 
 ## Features
@@ -20,10 +22,10 @@ A simple web-based expense tracker designed for students.
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- Chart.js
+![HTML](https://img.shields.io/badge/HTML-HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow)
+![Chart.js](https://img.shields.io/badge/Chart.js-Charts-green)
 
 ## How to Run
 
