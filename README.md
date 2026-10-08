@@ -36,7 +36,15 @@ A simple web-based expense tracker designed for students.
 
 ### Dashboard
 
-_Add a screenshot of the Student Expense Tracker dashboard here._
+![Student Expense Tracker Dashboard](screenshot1.png)
+
+### Expense Management
+
+![Expense Management and spending chart](screenshot2.png)
+
+### Expense History and Chart
+
+![Expense History ](screenshot3.png)
 
 
 ## Project Structure
