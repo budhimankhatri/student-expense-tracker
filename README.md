@@ -29,7 +29,9 @@ A simple web-based expense tracker designed for students.
 
 ## Live Demo
 
-Coming soon.
+The project is currently available through this GitHub repository.
+
+[View the source code](https://github.com/budhimankhatri/student-expense-tracker)
 
 ## How to Run
 
