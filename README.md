@@ -27,6 +27,10 @@ A simple web-based expense tracker designed for students.
 ![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow)
 ![Chart.js](https://img.shields.io/badge/Chart.js-Charts-green)
 
+## Live Demo
+
+Coming soon.
+
 ## How to Run
 
 1. Download or clone the project.
